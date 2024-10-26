@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("exercise_rubric_devops")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43e342fb700f6f7a165d4d62f4dcb5963ee03dec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d2805a0c678a5637a465a4175526fca432d1bdf")]
 [assembly: System.Reflection.AssemblyProductAttribute("exercise_rubric_devops")]
 [assembly: System.Reflection.AssemblyTitleAttribute("exercise_rubric_devops")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
